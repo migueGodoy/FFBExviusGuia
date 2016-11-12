@@ -59,7 +59,7 @@ public class detallesUnidad extends AppCompatActivity {
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
-        }); 
+        });
 
         //Recuperamos la información pasada en el intent
         Bundle bundle = this.getIntent().getExtras();
