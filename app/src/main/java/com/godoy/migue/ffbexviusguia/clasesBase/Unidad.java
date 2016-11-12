@@ -1,7 +1,7 @@
 package com.godoy.migue.ffbexviusguia.clasesBase;
 
 /**
- * Created by mikle on 10/10/2016.
+ * Created by @_migueGodoy on 10/10/2016.
  */
 
 public class Unidad {
