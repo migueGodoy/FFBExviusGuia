@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Guía FF Brave Exvius</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="titulo_activity_unidades">Unidades</string>
+    <string name="estadisticas">ESTADÍSTICAS</string>
+    <string name="resistencias">RESISTENCIAS</string>
+    <string name="equipamiento">EQUIPAMIENTO</string>
+    <string name="title_activity_detalles_unidad">detallesUnidad</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
